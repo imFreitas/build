@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.bc106c5b.css",
+    "main.js": "./static/js/main.a2eb89ae.js",
+    "static/media/profile.jpg": "./static/media/profile.c0346fac0ff0511495c7.jpg",
+    "static/media/searchIcon.png": "./static/media/searchIcon.afde00ab19b32864cdd8.png",
+    "static/media/instagramLogo.png": "./static/media/instagramLogo.2caa1ed21801fef79e6b.png",
+    "static/media/publicar.svg": "./static/media/publicar.d284f21d2f2d16c754f9363ca568fbbf.svg",
+    "static/media/heart.svg": "./static/media/heart.be21b33c66711795664cd39c7f5f1d5b.svg",
+    "static/media/messages.svg": "./static/media/messages.0937b8161dc245997216332ca978effe.svg",
+    "index.html": "./index.html",
+    "static/media/notifications.svg": "./static/media/notifications.cd2a38863b68fed22958ce2fe1992fa7.svg",
+    "static/media/encontrar.svg": "./static/media/encontrar.78a3db6c41a23a2808470a534532196d.svg",
+    "static/media/comments.svg": "./static/media/comments.339a875a3f7777dc869203b37ccf0395.svg",
+    "static/media/home.svg": "./static/media/home.d2d8aeb275c86708b336fa07e3000b5b.svg",
+    "static/media/cardButton.svg": "./static/media/cardButton.3acb955432ec70f0dcca87c463c5baa2.svg",
+    "static/media/bookmark.svg": "./static/media/bookmark.dce2fb848b227e58b56bc4e58b8be5a9.svg",
+    "static/media/inbox.svg": "./static/media/inbox.d222bb94305f99af2b879930dbae62c8.svg",
+    "main.bc106c5b.css.map": "./static/css/main.bc106c5b.css.map",
+    "main.a2eb89ae.js.map": "./static/js/main.a2eb89ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc106c5b.css",
+    "static/js/main.a2eb89ae.js"
+  ]
+}
